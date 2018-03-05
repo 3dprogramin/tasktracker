@@ -5,16 +5,16 @@ Track the time it takes you to complete a task
 
 
 ### Installation
-```npm install task-tracker```
+```npm install 3dprogramin/tasktracker```
 
 or
 
-```git clone https://github.com/3dprogramin/task-tracker```
+```git clone https://github.com/3dprogramin/tasktracker```
 
 
 ### Usage
 ```js
-const tasktracker = require('task-tracker');
+const tasktracker = require('tasktracker');
 ```
 #### Restart time
 ```js
