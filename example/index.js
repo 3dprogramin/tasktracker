@@ -1,3 +1,5 @@
+#!/usr/bin/node
+
 const tasktracker = require('../lib/index');
 const exec = require('child_process').exec;
 const format = require('string-format');
