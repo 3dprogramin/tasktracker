@@ -1,7 +1,7 @@
 Task tracker
 --------
 
-Track the time it takes you to complete a task
+A simple task time tracker build in nodejs
 
 
 ### Installation
@@ -41,6 +41,8 @@ The example contains a working program out-of-the-box if you're on ArchLinux wit
 If you're not, only thing you have to get going is the ```notify-send``` program.
 
 Once you have that working, you can set a hotkey to make it even easier, I've used ```obkey``` to do that
+
+It accepts two arguments: ```restart``` and ```show```
 
 -----------
 
