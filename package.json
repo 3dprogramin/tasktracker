@@ -1,0 +1,33 @@
+{
+  "name": "@3dprogramin/tasktracker",
+  "version": "1.0.0",
+  "description": "Track the time of your task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3dprogramin/tasktracker.git"
+  },
+  "keywords": [
+    "task",
+    "tracker",
+    "track",
+    "time",
+    "track",
+    "work",
+    "time"
+  ],
+  "author": "3dprogramin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/3dprogramin/tasktracker/issues"
+  },
+  "homepage": "https://github.com/3dprogramin/tasktracker#readme",
+  "dependencies": {
+    "javascript-time-ago": "^1.0.28",
+    "q": "^1.5.1",
+    "string-format": "^0.5.0"
+  }
+}
