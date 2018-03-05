@@ -1,6 +1,6 @@
 {
   "name": "@3dprogramin/tasktracker",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Track the time of your task",
   "main": "lib/index.js",
   "scripts": {
