@@ -37,12 +37,12 @@ The **send_os_notif** method executes a OS command, that prints an alert on
 the screen. Method can be found inside example
 
 ### Example
-The example contains a working program out-of-the-box if you're on ArchLinux with OpenBox.
-If you're not, only thing you have to get going is the ```notify-send``` program.
+The example contains an out-of-the-box working program (if you're on ArchLinux with OpenBox)
+If you're not, make sure you have ```notify-send``` installed
 
 Once you have that working, you can set a hotkey to make it even easier, I've used ```obkey``` to do that
 
-It accepts two arguments: ```restart``` and ```show```
+Currently, it accepts two arguments: ```restart``` and ```show```
 
 -----------
 
