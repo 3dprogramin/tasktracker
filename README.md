@@ -5,7 +5,7 @@ Track the time it takes you to complete a task
 
 
 ### Installation
-```npm install 3dprogramin/tasktracker```
+```npm install @3dprogramin/tasktracker```
 
 or
 
