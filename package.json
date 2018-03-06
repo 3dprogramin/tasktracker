@@ -1,7 +1,7 @@
 {
   "name": "@3dprogramin/tasktracker",
   "version": "1.0.7",
-  "description": "Track the time of your task",
+  "description": "Track the time it takes you to complete a task",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

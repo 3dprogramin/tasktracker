@@ -19,7 +19,7 @@ const tasktracker = require('@3dprogramin/tasktracker');
 #### Restart time
 ```js
 tasktracker.restart().then(function(data){
-        send_os_notif('Time restarted');
+       send_os_notif('Time restarted');
     }).catch(function(err){
        send_os_notif(format('Error: {}', err.message));
     });
