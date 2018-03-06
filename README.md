@@ -14,7 +14,7 @@ or
 
 ### Usage
 ```js
-const tasktracker = require('tasktracker');
+const tasktracker = require('@3dprogramin/tasktracker');
 ```
 #### Restart time
 ```js
