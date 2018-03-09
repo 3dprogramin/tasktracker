@@ -54,7 +54,7 @@ Currently, it accepts two arguments: ```restart``` and ```show```
 
 > Show passed time
 
-```node example/index.js restart```
+```node example/index.js show```
 
 ### License
 MIT
